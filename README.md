@@ -1,2 +1,2 @@
 # google-glass
- Criação do Site Google Glass
+ Criação do Site Google Glass na disciplina de Desenvolvimento de Aplicações para Internet
